@@ -1,5 +1,6 @@
 # Cpre-288-Final-Project
-Final project for Embedded Systems class at Iowa State University
+Final project for Embedded Systems class at Iowa State University.
+
 This code was developed in Code Composser Studio and Visual Studio for Iowa States CyBot.
 
 To run:
