@@ -4,7 +4,7 @@ This code was developed in Code Composser Studio and Visual Studio for Iowa Stat
 
 To run:
   1. Deploy the code to the CyBot.
-  2. Connect to the designated CyBot via wifi
-  3. Run the GUI python code in visual studio
+  2. Connect to the designated CyBot via wifi.
+  3. Run the GUI python code in Visual Studio.
 
  
